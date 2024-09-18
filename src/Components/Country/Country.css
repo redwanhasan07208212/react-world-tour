@@ -1,0 +1,23 @@
+.box{
+    border: 2px solid purple;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+}
+.box img{
+    width: 320px;
+    height: 192px;
+}
+.visit{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.visited{
+    background-color: rgb(228, 161, 89);
+    color: black;
+}
+.mark{
+    text-align: left;
+    margin-bottom: 20px;
+}
